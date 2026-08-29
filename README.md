@@ -1,2 +1,2 @@
 # NeuralButterflyOT
-Structured matrix approximations, hierarchical coupling, and scalable wasserstein maps via butterfly Factorisation
+Structured Matrix Approximations, Hierarchical Coupling, and Scalable wasserstein maps via Butterfly Factorisation
